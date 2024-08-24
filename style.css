@@ -121,7 +121,7 @@
 }
 
 #same{
-    background-color: rgb(252, 251, 251);
+    background-color: rgb(247, 245, 245);
 }
 .row-3 button{
     width: 180px;
@@ -169,6 +169,9 @@
 #same:hover{
     background-color: rgb(228, 220, 220);
 
+}
+.blue:hover{
+    background-color: aqua;
 }
 
 @media (max-width: 900px){
