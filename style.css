@@ -174,7 +174,7 @@
     background-color: aqua;
 }
 
-@media (max-width: 900px){
+@media (max-width: 1024px){
  .screen{
     padding-right: -10px;
  }
@@ -247,7 +247,7 @@
 }
 .screen{
     height: 70px;
-    width: 70%;
+    width: 100%;
     margin-top: 30px;
     /* border: 1px solid; */
     font-size: 30px;
@@ -255,6 +255,12 @@
 }
 .contai{
     margin-top: -20px;
-    width: 100%;
+    width: 100vw;
+}
+.history{
+    display: none;
+}
+.header{
+    margin-top: 30px;
 }
 }
