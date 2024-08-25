@@ -179,7 +179,7 @@
     padding-right: -10px;
  }
  .row-1 button{
-    width: 60px;
+    width: 80px;
     height: 50px;
     font-size: 15px;
     background-color:rgb(240, 238, 238);
@@ -191,7 +191,7 @@
  }
 
  .row-2 button{
-    width: 60px;
+    width: 80px;
     height: 50px;
     font-size: 15px;
     border: 0px;
@@ -201,7 +201,7 @@
  }
 
  .row-3 button{
-    width: 60px;
+    width: 80px;
     height: 50px;
     font-size: 15px;
     background-color: rgb(240, 238, 238);
@@ -211,7 +211,7 @@
 
 }
 .row-4 button{
-    width: 60px;
+    width: 80px;
     height: 50px;
     font-size: 15px;
     border: 0px;
@@ -221,7 +221,7 @@
 
 }
 .row-5 button{
-    width: 60px;
+    width: 80px;
     height: 50px;
     font-size: 15px;
     background-color: rgb(240, 238, 238) ;
@@ -251,7 +251,7 @@
     margin-top: 30px;
     /* border: 1px solid; */
     font-size: 30px;
-    padding-left: 300px
+    padding-left: 400px
 }
 .contai{
     margin-top: -20px;
